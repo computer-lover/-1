@@ -1,0 +1,7 @@
+name=input('')
+QQ=input('')
+phone_number=input('')
+school_adress=input('')
+print('='*50)
+print('姓名:%s\n\nQQ:%s\n\n手机号:%s\n\n学校地址:%s\n\n'%(name,QQ,phone_number,school_adress))
+print('='*50)
